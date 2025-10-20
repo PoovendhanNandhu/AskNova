@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "AskNova - Aceternity UI Integration",
-  description: "Next.js app with Aceternity UI components",
+  title: "AskNova - Agentic AI",
+  description: "AskNova turns your prompt into a live, automated landing page",
 };
 
 export default function RootLayout({
